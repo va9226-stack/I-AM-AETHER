@@ -1,0 +1,8 @@
+{
+  "description": "Aether: A high-performance multi-modal creative studio powered by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "name": "I Am Aether"
+}
